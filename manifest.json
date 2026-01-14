@@ -10,8 +10,9 @@
     {
       "src": "odd_one_out_icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ],
   "orientation": "portrait"
 }
+
