@@ -8,13 +8,13 @@
   "description": "Find the odd number out in this fast-paced brain teaser!",
   "icons": [
     {
-      "src": "odd_one_out_icon.png",
+      "src": "final_icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "odd_one_out_icon.png",
+      "src": "final_icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

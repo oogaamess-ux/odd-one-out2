@@ -5,7 +5,7 @@ const ASSETS = [
     './style.css',
     './game.js',
     './manifest.json',
-    './odd_one_out_icon.png',
+    './final_icon.png',
     'https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js'
 ];
 
